@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GhulamAhad
 - 👀 I’m interested in web development and AI(Artifical Inteligence)
 - 🌱 I’m currently learning BSCS
-- 💞️ I’m looking to collaborate with OSO Microsoft Goggal
+- 💞️ I’m looking to collaborate with OSO Microsoft Googal
 - 📫 How to reach me with the help of my brother Anas Bahi
 - 😄 Pronouns: 
 - ⚡ Fun fact: ...
